@@ -1,0 +1,26 @@
+{
+	"name": "lc",
+	"version": "1.0.0",
+	"description": "list directory contents count",
+	"main": "./bin/index.js",
+	"scripts": {
+		"test": "node ./bin/index.js build darko"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/leonwebdever/lc.git"
+	},
+	"keywords": ["unix", "command", "nodejs"],
+	"author": "libp",
+	"license": "MIT",
+	"bin": {
+		"lc": "./bin/index.js"
+	},
+	"bugs": {
+		"url": "https://github.com/leonwebdever/lc/issues"
+	},
+	"homepage": "https://github.com/leonwebdever/lc#readme",
+	"dependencies": {
+		"commander": "^2.12.1"
+	}
+}
