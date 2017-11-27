@@ -1,5 +1,5 @@
 {
-	"name": "lc",
+	"name": "lc-command",
 	"version": "1.0.0",
 	"description": "list directory contents count",
 	"main": "./bin/index.js",
