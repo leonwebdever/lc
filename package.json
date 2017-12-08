@@ -14,7 +14,7 @@
 	"author": "libp",
 	"license": "MIT",
 	"bin": {
-		"lcx": "./bin/index.js"
+		"lc": "./bin/index.js"
 	},
 	"bugs": {
 		"url": "https://github.com/leonwebdever/lc/issues"
