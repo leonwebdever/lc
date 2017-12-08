@@ -1,10 +1,10 @@
 {
-	"name": "lc-command",
+	"name": "lcx",
 	"version": "1.0.0",
 	"description": "list directory contents count",
 	"main": "./bin/index.js",
 	"scripts": {
-		"test": "node ./bin/index.js build darko"
+		"start": "node ./bin/index.js"
 	},
 	"repository": {
 		"type": "git",
@@ -14,7 +14,7 @@
 	"author": "libp",
 	"license": "MIT",
 	"bin": {
-		"lc": "./bin/index.js"
+		"lcx": "./bin/index.js"
 	},
 	"bugs": {
 		"url": "https://github.com/leonwebdever/lc/issues"
