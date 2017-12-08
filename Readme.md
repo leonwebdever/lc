@@ -7,7 +7,7 @@
 ## install
 
 ```bash
-    npm install lc-command -g
+    npm install lcx -g
 ```
 
 ## usage
